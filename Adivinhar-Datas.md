@@ -1,4 +1,4 @@
-Perfeito — segue um te# O “truque” de descobrir o dia da semana de qualquer data
+# O “truque” de descobrir o dia da semana de qualquer data
 
 Em algum momento da vida, quase todo mundo já viu alguém fazer a seguinte “mágica”:
 
