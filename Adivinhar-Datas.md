@@ -23,6 +23,7 @@ Isso permite transformar qualquer data em um número que representa um dia da se
 Esse tipo de transformação é estudado dentro de conceitos como:
 
 👉 Calendário Gregoriano
+
 👉 Congruência de Zeller
 
 ---
