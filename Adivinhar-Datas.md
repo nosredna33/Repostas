@@ -34,7 +34,9 @@ Uma das formas mais conhecidas de resolver isso é a **Congruência de Zeller**.
 
 Ela pega dia, mês e ano e devolve um número de 0 a 6, representando o dia da semana.
 $$
+
 h = \left(q + \left\lfloor \frac{13(m+1)}{5} \right\rfloor + K + \left\lfloor \frac{K}{4} \right\rfloor + \left\lfloor \frac{J}{4} \right\rfloor + 5J\right) \bmod 7
+
 $$
 
 Onde:
